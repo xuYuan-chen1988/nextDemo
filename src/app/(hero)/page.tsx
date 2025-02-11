@@ -1,8 +1,7 @@
 import React from 'react'
-import Hero from './components/hero'
+import Hero from '../components/hero'
 import HomeSrc from '/public/10.webp'
 import { Metadata } from 'next'
-
 
 export const metadata: Metadata = {
     title: '首页',
